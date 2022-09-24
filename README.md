@@ -98,6 +98,8 @@ Berikut rumus dari metriks precision:
 
 Berdasarkan hasil rekomendasi yang saya uji yaitu dengan menggunakan artikel 15, terlihat bahwa artikel 15 memiliki kategori sport dan dari Artikel yang direkomendasikan tersebut 10 artikel memiliki kategori sport. Ini artinya precisionnya sebesar 10/10 atau 100%.
 
+## Conclusion/Kesimpulan
+Sistem rekomendasi artikel yang dibangun dengan model _machine learning_ dengan metode _content based filtering_ menghasilkan precision 100%. Namun, diharapkan nanti mencoba dataset yang memiliki kategori lebih bervariasi untuk menguji menggunakan _content based filtering_ ini.
 
 ## Referensi
 [1] Musto, C., Gemmis, M. D., Lops, P., Narducci, F., & Semeraro, G. (2022). Semantics and content-based recommendations. In Recommender systems handbook (pp. 251-298). Springer, New York, NY.
